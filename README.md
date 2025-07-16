@@ -20,7 +20,7 @@
 
 <div align="center"> 
   <h1>
-    Olá! 👋 Eu sou Rodrigo
+    Eu sou Rodrigo
   </h1>
   <h3>
     Um Engenheiro de Dados apaixonado por tecnologia.
@@ -29,9 +29,9 @@
 
 ## 👨‍💻 Sobre Mim
 
-- 🔭 Atualmente estou trabalhando Houer .
-- 🌱 Estou focado em aprender mais sobre Automação, ML, Cloud e Engenharia de Dados .
-- 👯 Procuro colaborar em projetos de código aberto relacionados a área de Dados.
+- 🔭 Atualmente estou trabalhando Houer
+- 🌱 Estou focado em aprender mais sobre Automação, ML, Cloud e Engenharia de Dados 
+- 👯 Procuro colaborar em projetos de código aberto relacionados a área de Dados
 - 📫 Como me encontrar: Veja os links abaixo!
 ## 📫 Entre em Contato
 
